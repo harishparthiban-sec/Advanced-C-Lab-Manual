@@ -27,6 +27,7 @@ void display(){
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/e5e825fc-e76a-4d9e-902c-a2c8aeb8d4fe)
 
 
@@ -64,6 +65,7 @@ void push (int data)
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/7daeee35-8b47-4822-bf9b-2c2c5cdef337)
 
 
@@ -104,6 +106,7 @@ void display()
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/19befc62-dc55-470c-8950-c38323cc267f)
 
 
@@ -141,6 +144,7 @@ void enqueue(int data){
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/610d9fad-00be-4490-90b9-590bf82b4a44)
 
 
@@ -188,6 +192,7 @@ void dequeue()
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/acb49741-ca7b-4332-8d74-9d974099edbe)
 
 
